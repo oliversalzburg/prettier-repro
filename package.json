@@ -1,0 +1,8 @@
+{
+  "name": "prettier-repro",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "prettier-plugin-sh": "^0.10.1"
+  }
+}
